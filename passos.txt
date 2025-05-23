@@ -1,0 +1,3 @@
+git config --global user.name n1nj4s
+git config --global user.email leonardozola04@gmal.com
+
